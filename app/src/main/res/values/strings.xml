@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AnuragSWapi</string>
+
+    <string name="error_title">Error</string>
+    <string name="error_message">Something is not working, please try again later</string>
+    <string name="splash_screen_text">STAR\nWARS</string>
+
+    <string name="root_films">Films</string>
+    <string name="root_people">People</string>
+    <string name="root_planets">Planets</string>
+    <string name="root_species">Species</string>
+    <string name="root_starships">Starships</string>
+    <string name="root_vehicles">Vehicles</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
